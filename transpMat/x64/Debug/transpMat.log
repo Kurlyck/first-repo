@@ -1,0 +1,4 @@
+﻿  transpMat.cpp
+C:\Users\Danila\Desktop\program\transpMat\transpMat.cpp(8,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danila\Desktop\program\transpMat\transpMat.cpp(9,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  transpMat.vcxproj -> C:\Users\Danila\Desktop\program\transpMat\x64\Debug\transpMat.exe

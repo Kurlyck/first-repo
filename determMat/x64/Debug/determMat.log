@@ -1,0 +1,4 @@
+﻿  determMat.cpp
+C:\Users\Danila\Desktop\program\determMat\determMat.cpp(39): warning C4715: determinant: значение возвращается не при всех путях выполнения
+C:\Users\Danila\Desktop\program\determMat\determMat.cpp(13,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  determMat.vcxproj -> C:\Users\Danila\Desktop\program\determMat\x64\Debug\determMat.exe
